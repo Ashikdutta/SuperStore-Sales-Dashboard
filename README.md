@@ -1,4 +1,5 @@
-![Dashboard Preview](Thumbnail.png)
+## 📸 Dashboard Preview
+![Dashboard](Super_Store_Thumbnail.png).
 # 📊 Super Store Sales Dashboard
 ## 🔍 Overview
 This Power BI dashboard shows:
@@ -6,8 +7,6 @@ This Power BI dashboard shows:
 - Profit Trends
 - 15 Days Forecast
 
-## 📸 Dashboard Preview
-![Dashboard](thumbnail.png)
 
 ## 🛠 Tools Used
 - Power BI
