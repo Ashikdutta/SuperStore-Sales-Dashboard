@@ -1,4 +1,4 @@
-![Dashboard Preview](Super_Store_Thumbnail.png)
+![Dashboard](thumbnail.png)
 # 📊 Super Store Sales Dashboard
 ## 🔍 Overview
 This Power BI dashboard shows:
